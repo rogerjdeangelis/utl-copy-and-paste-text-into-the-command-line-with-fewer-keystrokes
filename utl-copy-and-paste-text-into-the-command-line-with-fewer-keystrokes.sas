@@ -2,6 +2,9 @@
 
 Copy and paste text into the command line with fewer keystrokes
 
+github
+https://tinyurl.com/2p99ar2t
+
 Sort of interesting command macro for the classic 1980's SAS editor
 
 Copy any text in any classic editor pgm, out, log, notebooks to the command line
