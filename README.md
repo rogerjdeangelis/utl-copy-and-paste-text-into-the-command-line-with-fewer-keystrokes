@@ -3,6 +3,8 @@ Copy and paste text into the command line with fewer keystrokes
     %let pgm=utl-copy and paste text into the command line with fewer keystrokes;
 
     Copy and paste text into the command line with fewer keystrokes
+    
+    https://tinyurl.com/2p99ar2t
 
     Sort of interesting command macro for the classic 1980's SAS editor
 
